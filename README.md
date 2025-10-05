@@ -1,4 +1,6 @@
-The Advanced Quantum-Informed Exoplanetary Architecture Predictor (AUXA) is a paradigm-shifting solution developed for the NASA Space Apps Challenge 2025. It integrates advanced concepts from quantum information theory, cosmological dynamics, and celestial mechanics to characterize exoplanetary systems. AUXA transcends classical methodologies by encoding light curve data into a metriplectic Open Quantum System (OQS), allowing for the extraction of deep informational and geometric invariants that predict stable planetary architectures with ultra-high fidelity.
+# Project Overview
+
+The Quantum-neural Exoplanetary Architecture Predictor (AUXA) is a paradigm-shifting solution developed for the NASA Space Apps Challenge 2025. It integrates advanced concepts from quantum information theory, cosmological dynamics, and celestial mechanics to characterize exoplanetary systems. AUXA transcends classical methodologies by encoding light curve data into a metriplectic Open Quantum System (OQS), allowing for the extraction of deep informational and geometric invariants that predict stable planetary architectures with ultra-high fidelity.
 
 ### 1. Informational-Energetic Equivalence  
 
